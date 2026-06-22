@@ -296,11 +296,11 @@ export default function HomePage() {
       text="Ready To Grow Your Business Online?"
       primaryButton={{
         text: "Schedule Consultation",
-        href: "#",
+        href: "mailto:Alejandron@scwebcreative.com,seanw@scwebcreative.com",
       }}
       secondaryButton={{
         text: "Contact Us",
-        href: "#",
+        href: "mailto:Alejandron@scwebcreative.com,seanw@scwebcreative.com",
       }}
     />
     </SectionErrorBoundary>
